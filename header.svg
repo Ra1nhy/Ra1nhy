@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Ra1nhy — Small ideas. Real experiments.">
+  <rect width="1280" height="360" rx="18" fill="#eff0e5"/>
+  <path d="M0 310H1280" stroke="#cbd0be"/>
+  <path d="M900 0V360M1224 0V360" stroke="#d9ddcd"/>
+  <circle cx="1062" cy="160" r="116" fill="#d7deca"/>
+  <circle cx="1062" cy="160" r="78" fill="none" stroke="#8c9b79" stroke-width="1"/>
+  <path d="M1014 160h96m-48-48v96" stroke="#657657" stroke-width="2"/>
+  <rect x="1046" y="144" width="32" height="32" fill="#657657"/>
+  <rect x="1149" y="73" width="12" height="12" fill="#c49368"/>
+  <g fill="#303b2e" font-family="Arial, Helvetica, sans-serif">
+    <text x="62" y="66" font-size="16" letter-spacing="4">RA1NHY / PERSONAL LAB</text>
+    <text x="58" y="158" font-size="66" font-weight="700" letter-spacing="-2">Small ideas.</text>
+    <text x="58" y="232" font-size="66" font-weight="700" letter-spacing="-2">Real experiments.</text>
+    <text x="62" y="339" font-size="13" letter-spacing="3" fill="#657657">AI · OPEN SOURCE · CURIOSITY</text>
+    <text x="966" y="339" font-size="13" letter-spacing="2" fill="#657657">ONE STEP AT A TIME ↗</text>
+  </g>
+</svg>
